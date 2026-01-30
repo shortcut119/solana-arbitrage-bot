@@ -27,7 +27,7 @@ It can be anything pair
   - Reqwest 0.13.1, Hyper 1.8.1, Tower-HTTP 0.6.8 for better networking
   - SQLx 0.8.6 with improved PostgreSQL support
   - Enhanced error handling with Thiserror 2.0.17 and Anyhow 1.0.100
--  Improvements: 
+- Improvements: 
   - Extensible adapter architecture
   - Parallel quote fetching from all DEXes
   - Cached liquidity data (30 seconds expiry)
