@@ -3,10 +3,14 @@
 A high-performance, real-time arbitrage bot for Solana that identifies and executes profitable price differences across multiple DEXs using gRPC, Jito bundles, and advanced MEV strategies.
 
 <div align="center">
+  
 ### Call Me
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roswellecho)
 </div>
+
 <img width="344" height="297" alt="image" src="https://github.com/user-attachments/assets/ba764da1-d271-46ab-9a65-bdf176d67145" />
+
 ## DeFi Activity
 <img width="344" height="297" alt="image" src="https://github.com/user-attachments/assets/a4305961-7c6c-41d4-80b6-d31634770aa5" />
 WSOL/WSOL, USDC/USDC, WETH/WETH
