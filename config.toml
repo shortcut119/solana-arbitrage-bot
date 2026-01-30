@@ -109,3 +109,4 @@ max_concurrent_trades = 3
 enable_auto_trading = false
 min_opportunity_duration_ms = 500
 price_update_threshold = 0.1
+//updateing now
