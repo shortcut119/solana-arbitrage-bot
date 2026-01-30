@@ -3,14 +3,23 @@
 A high-performance, real-time arbitrage bot for Solana that identifies and executes profitable price differences across multiple DEXs using gRPC, Jito bundles, and advanced MEV strategies.
 
 <div align="center">
-
 ### Call Me
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roswellecho)
-[![Twitter](https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/roswellyecho)
-
-
 </div>
+<img width="344" height="297" alt="image" src="https://github.com/user-attachments/assets/ba764da1-d271-46ab-9a65-bdf176d67145" />
+## DeFi Activity
+<img width="344" height="297" alt="image" src="https://github.com/user-attachments/assets/a4305961-7c6c-41d4-80b6-d31634770aa5" />
+WSOL/WSOL, USDC/USDC, WETH/WETH
+It can be anything pair
+
+## Update
+- Extensible adapter architecture
+- Parallet quote fetchign from all DEXes
+- Cached liquidity data (30 seconds expiry)
+
+## onchain vs off chain
+- offchain: easy to maintain, dynamic route by using jupiter
+- onchain: a bit hared to maintain, customized route
 
 ## Features
 
@@ -294,11 +303,4 @@ let result = engine.execute_jupiter_swap(&opportunity, amount).await?;
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For issues and questions:
-- Open an issue on GitHub
-- Check the documentation
-- Review the examples
 
