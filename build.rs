@@ -7,3 +7,4 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("cargo:rerun-if-changed=proto/arbitrage.proto");
     Ok(())
 }
+//will be udpate according to proto

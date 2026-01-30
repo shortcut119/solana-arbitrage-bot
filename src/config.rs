@@ -2,7 +2,7 @@ use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use anyhow::Result;
 use crate::types::JupiterConfig;
-
+//updateed onchain and also off chain 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Config {
     pub rpc_endpoints: RpcConfig,

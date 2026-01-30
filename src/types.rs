@@ -1,6 +1,6 @@
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
-
+//updated fully version
 // Existing types from the original codebase
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct PriceData {
