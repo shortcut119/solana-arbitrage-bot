@@ -37,7 +37,7 @@ It can be anything pair
 - **Configurable Strategies**: Customizable arbitrage parameters
 - **Hybrid Execution**: Choose between Jupiter routing or direct DEX execution
 
-## 🏛️ Supported DEXs & Program IDs
+## Supported DEXs & Program IDs
 
 This bot supports integration with major Solana DEXs. Here are the program IDs and addresses for each supported exchange:
 
@@ -130,7 +130,7 @@ cd solana-jupiter-arbitrage-bot
 cargo build --release
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 Create a `config.toml` file:
 
@@ -221,7 +221,7 @@ price_update_threshold = 0.1
 ./target/release/solana-arbitrage-bot scan --min-profit 0.5 --max-amount 1000.0
 ```
 
-## 📊 Monitoring
+## Monitoring
 
 The bot provides comprehensive monitoring through:
 
@@ -232,7 +232,7 @@ The bot provides comprehensive monitoring through:
 
 Access metrics at: `http://localhost:9000/metrics`
 
-## 🌟 Jupiter Integration Benefits
+## Jupiter Integration Benefits
 
 ### Enhanced Price Discovery
 - **20+ DEXs**: Access to Raydium, Orca, Serum, Aldrin, Saber, Mercurial, and more
